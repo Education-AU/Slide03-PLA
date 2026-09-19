@@ -13,15 +13,15 @@ $$
 Is it the minimal distance solution? Consider any $\mathbf{w} \in W$
 $$
 \lVert \mathbf{u}-\mathbf{w} \rVert^2=
-\lVert \mathbf{u}-\mathbf{w}_{\parallel}+\mathbf{w}_{\parallel}-\mathbf{w} \rVert^2=\lVert \mathbf{u}-\mathbf{w}_{\parallel}\rVert^2+\lVert\mathbf{w}_{\parallel}-\mathbf{w} \rVert^2
+\lVert \mathbf{u}-\mathbf{u}_{\parallel}+\mathbf{u}_{\parallel}-\mathbf{w} \rVert^2=\lVert \mathbf{u}-\mathbf{u}_{\parallel}\rVert^2+\lVert\mathbf{u}_{\parallel}-\mathbf{w} \rVert^2
 $$
-since $\mathbf{w}_{\parallel}-\mathbf{w} \in W$
+since $\mathbf{u}_{\parallel}-\mathbf{w} \in W$
 
-And this is uniquely minimal if $\mathbf{w}=\mathbf{w}_{\parallel}$
+And this is uniquely minimal if $\mathbf{w}=\mathbf{u}_{\parallel}$
 
 and furthermore
-any $\mathbf{u} \in V$ can be expressed as a sum of the orthogonal projection $\mathbf{w}_{\parallel} $ and a vector
+any $\mathbf{u} \in V$ can be expressed as a sum of the orthogonal projection $\mathbf{u}_{\parallel} $ and a vector
 orthogonal to this projection
 $$
-\mathbf{u} = (\mathbf{u}-\mathbf{w}_{\parallel})+\mathbf{w}_{\parallel}  
+\mathbf{u} = (\mathbf{u}-\mathbf{u}_{\parallel})+\mathbf{u}_{\parallel}  
 $$

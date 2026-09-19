@@ -2,6 +2,7 @@
 title: Orthonormal from Orthogonal
 template: default
 ---
+
 Does any vector space always have such an orthonormal basis or simpler put an orthogonal basis.
 
 Clearly if we have and orthogonal basis say
@@ -17,3 +18,7 @@ $$
 $$
 
 all of unit length, so we concentrate on orthogonality
+
+A natural question is whether we can always find an orthogonal basis for $\mathbb R^n$. The answer is yes. We will
+develop some intuition for why this is possible by considering orthogonal projections.
+

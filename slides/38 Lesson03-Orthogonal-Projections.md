@@ -11,7 +11,7 @@ $$
 \frac{\langle \mathbf{u},\mathbf{v}\rangle}{\langle \mathbf{v},\mathbf{v}\rangle}\mathbf{v}+
 \mathbf{u}-\frac{\langle \mathbf{u},\mathbf{v}\rangle}{\langle \mathbf{v},\mathbf{v}\rangle}\mathbf{v}=\mathbf{u}
 $$
-so yes we can. And since $\mathbf{u}_{parallel}$ and $\mathbf{u}_{\perp}$ are orthogonal it is a basis.
+so yes we can. And since $\mathbf{u}_{\parallel}$ and $\mathbf{u}_{\perp}$ are orthogonal it is a basis.
 
 From the previous discussion we saw that we can **project** the vector $\mathbf{u}$ down to vector $\mathbf{v}$ such
 that the parallel vector $\mathbf{u}_{\parallel}$ is the vector parallel to $\mathbf{v}$ closest to $\mathbf{u}$

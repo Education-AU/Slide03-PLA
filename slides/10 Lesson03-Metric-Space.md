@@ -11,11 +11,11 @@ In general a metric $d$ on a vector space $V$( or any set really) is defined as
 
 <h3 class="h3-blue">Definition</h3>
 
-1. The metric map<br>
+1. **The metric map**<br>
 $d:V\times V\rightarrow \mathbb{R}$
-2. Positive definite<br>
+2. **Positive definite**<br>
 $\forall \mathbf{u},\mathbf{v} \in V: d(\mathbf{u},\mathbf{v})\geq 0, d(\mathbf{u},\mathbf{v})=0 \Rightarrow \mathbf{u}=\mathbf{v}$
-3. Symmetry<br>
+3. **Symmetry**<br>
 $\forall \mathbf{u},\mathbf{v} \in V: d(\mathbf{u},\mathbf{v})=d(\mathbf{v},\mathbf{u})$
-4. Triangle inequality<br>
+4. **Triangle inequality**<br>
 $\forall \mathbf{u},\mathbf{v},\mathbf{w} \in V: d(\mathbf{u},\mathbf{w})\leq d(\mathbf{u},\mathbf{v})+d(\mathbf{v},\mathbf{w})$

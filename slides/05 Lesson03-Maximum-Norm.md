@@ -21,6 +21,6 @@ We now define **a norm**
 $\forall \mathbf{f} \in C[a,b], \lVert \mathbf{f} \rVert= \max_{x \in [a,b]} \lvert f(x)\rvert$
 
 
-Is this a valid definition at all?. 
+Is this a valid definition at all? 
 
 Yes it is - all continuous functions on a closed interval assumes their maximum in that interval.  

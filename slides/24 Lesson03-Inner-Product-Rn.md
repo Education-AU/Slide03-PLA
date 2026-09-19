@@ -1,5 +1,5 @@
 ---
-title: Standard inner product on $\mathbb{R}^n$
+title: Standard inner product on ℝⁿ
 template: default
 ---
 

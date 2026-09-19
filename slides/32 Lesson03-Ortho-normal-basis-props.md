@@ -11,8 +11,7 @@ Let $\mathbf{u},\mathbf{v}\in V$ and let $\mathbf{b}_i$ be a **orthonormal** bas
 
 Then we can expand $\mathbf{u},\mathbf{v}$ in the basis
 $$
-\mathbf{u}=\sum_{i=1}^n c_i\mathbf{b}_i
-\mathbf{v}=\sum_{j=1}^n d_j\mathbf{b}_j
+\mathbf{u}=\sum_{i=1}^n c_i\mathbf{b}_i \quad \mathbf{v}=\sum_{j=1}^n d_j\mathbf{b}_j
 $$
 
 

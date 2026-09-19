@@ -5,7 +5,7 @@ template: default
 
 There are several ways to think about this, but let us think about it this way.
 
-Find the vector parallel to $\mathbf{v}$ that is closest to $\mathbf{u}$. Call that $\mathbf{u}_{\parallel}$
+Find the vector parallel to $\mathbf{v}$ that is closest to $\mathbf{u}$. Call this closest vector $\mathbf{u}_{\parallel}$
 
 So minimize
 $$

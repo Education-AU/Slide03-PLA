@@ -6,7 +6,7 @@ template: default
 The procedure for finding the orthogonal projection as stated previously can be elegantly formulated in the language of
 matrices.
 
-Since $W$ is a subspace we can choose a any basis of $W$. But with lower dimension $k$
+Since $W$ is a subspace we can choose any basis of $W$. But with the lower dimension $k$
 
 $$
 \mathbf{b}_1,\mathbf{b}_2,\dots ,\mathbf{b}_k
