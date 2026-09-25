@@ -7,7 +7,7 @@ To get a grip on this we start in $\mathbb{R}^2$.
 
 Consider the two **not orthogonal** vectors $ \mathbf{u}=(1,4) \text{  } \mathbf{v}=(4,2)$ depicted below
 
-<p align="center">
+<p class="center">
   <img src="../assets/Projection_1.png" alt="Projection" />
 </p>
 
