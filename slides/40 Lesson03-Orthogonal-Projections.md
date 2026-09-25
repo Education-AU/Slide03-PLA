@@ -9,5 +9,5 @@ spaces.
 
 Consider a finite dimensional vector space $V$ with dimension $n$ and a **subspace** $W\subset V$ with dimension $k<n$.
 <p class="center">
-  <img src="../assets/Projection_2.png" alt="Projection" />
+  <img src="assets/Projection_2.png" alt="Projection" />
 </p>

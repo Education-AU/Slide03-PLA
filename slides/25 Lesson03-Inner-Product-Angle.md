@@ -12,5 +12,5 @@ To understand this we first look at a simple case namely $\mathbb{R}^2$
 Consider the figure below of two vectors in $\mathbb{R}^2$ with angles $\phi$ and $\theta$ relative to the 1. axis.
 
 <p class="center" >
-  <img src="../assets/Angles.png" alt="Angles" width="260" />
+  <img src="assets/Angles.png" alt="Angles" width="260" />
 </p>
