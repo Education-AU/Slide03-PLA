@@ -9,7 +9,7 @@ show-footer: false
 Consider coordinates  $x= (1,2,3,4)$ and $y= (1,1,1,1)$ for two vectors in $\mathbb{R}^4$. Where coordinates are in the
 standard basis
 
-1. Calculate the inner product distances between the vectors
+1. Calculate the inner product of the vectors
 2. Also calculate the $L_2$ norm for both vectors **using the inner product**
 
 #### Solve in python
@@ -20,9 +20,9 @@ x=np.array([1, 2, 3, 4])
 y=np.array([1, 1, 1, 1])
 print(x)
 print(y)
-product=0// correct
-L2_x=0// correct
-L2_y=0// correct
+product=0# correct
+L2_x=0# correct
+L2_y=0# correct
 
 print(product)
 print(L2_x)

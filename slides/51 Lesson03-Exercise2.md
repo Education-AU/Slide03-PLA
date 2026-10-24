@@ -3,8 +3,6 @@ title: Exercise 2 Metrics
 template: two-column
 ---
 
-You can solve the problem directly in the browser extending the following code:
-
 #### Exercise a
 
 Consider coordinates  $x= (1,2,3,4)$ and $y= (1,1,1,1)$ for two vectors in $\mathbb{R}^4$. Where coordinates are in the
@@ -20,9 +18,9 @@ x=np.array([1, 2, 3, 4])
 y=np.array([1, 1, 1, 1])
 print(x)
 print(y)
-D1_x=0//correct
-D2_x=0//correct
-Dmax_x=0//correct
+D1_x=0#correct
+D2_x=0#correct
+Dmax_x=0#correct
 print(D1_x)
 print(D2_x)
 print(Dmax_x)

@@ -14,13 +14,13 @@ Verify that these are orthogonal vectors and therefore constitute an orthogonal 
 
 ``` python runnable Exercise a
 import numpy as np
-x=0// Correct
-y=0// Correct
-z=0// Correct
+x=0# Correct
+y=0# Correct
+z=0# Correct
 
-print("")// Correct
-print("")// Correct
-print("")// Correct
+print("")# Correct
+print("")# Correct
+print("")# Correct
 
 ```
 

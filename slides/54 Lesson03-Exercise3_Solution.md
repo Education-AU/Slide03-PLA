@@ -3,7 +3,6 @@ title: Exercise 3 Solution
 template: two-column
 ---
 
-You can solve the problem directly in the browser extending the following code:
 
 #### Solution a
 
