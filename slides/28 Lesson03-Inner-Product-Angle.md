@@ -1,9 +1,9 @@
 ---
-title: Justification of the angle concept in ℝ²
+title: Justification of the angle concept in any Vectorspace
 template: default
 ---
 
-So in the case of $\mathbb{R}^2$ we see that the **angle** between the vectors is directly calculated from the inner product.
+In the case of $\mathbb{R}^2$ we see that the **angle** between the vectors is directly calculated from the inner product.
 
 Now this can be generalized to any inner product on any vector space, because of the *Cauchy-Schwarz* inequality stating that for any inner product
 $$
