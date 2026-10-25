@@ -1,6 +1,7 @@
 ---
 title: Exercise 1 Norms
 template: two-column
+showFooter: false
 ---
 
 #### Exercise a
@@ -44,11 +45,9 @@ import numpy as np
 b_1=np.array([1, 1,-1])
 b_2=np.array([1, 1,0])
 b_3=np.array([1, -1, 1])
-
 B=([[0,0,0],[0,0,0],[0,0,0]]) #correct
 print(B)
 print(np.linalg.det(B))
-
 x=0# correct
 print(x)
 L1_x=0# correct
