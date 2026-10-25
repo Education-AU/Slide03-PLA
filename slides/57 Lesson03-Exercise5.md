@@ -1,6 +1,7 @@
 ---
 title: Exercise 5 Orthogonal Basis
 template: two-column
+show-footer: false
 ---
 
 #### Exercise a

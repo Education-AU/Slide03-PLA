@@ -46,24 +46,20 @@ b_1=np.array([1, 1,-1,1])
 b_2=np.array([1, 1,0,1])
 b_3=np.array([1, -1, 1,1])
 b_4=np.array([1, 0, 1,0])
-
 B=([[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]) //correct
 print(B)
 print(np.linalg.det(B))
-
 x=np.array([1, 2, 3, 4])// correct
 y=np.array([1, 1, 1, 1])// correct
 print(x)
 print(y)
 product=np.sum(x*y)
-
 L2_x=np.sqrt(np.sum(x**2))
 L2_y=np.sqrt(np.sum(y**2))
 print(product)
 print(L2_x)
 print(L2_y)
 ```
-
 Try to think about the formula for calculating the inner product in a different basis. You can use the matrix $B$ to
 transform the coordinates of the vectors to the new basis and then calculate the inner product and norms in that basis
 using matrix notation.

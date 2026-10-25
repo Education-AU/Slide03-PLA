@@ -1,6 +1,7 @@
 ---
 title: Exercise 4 Inner product
 template: two-column
+show-footer: false
 ---
 
 #### Exercise a

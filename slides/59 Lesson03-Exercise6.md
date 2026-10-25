@@ -1,6 +1,7 @@
 ---
 title: Exercise 6 Orthogonal Projection
 template: default
+show-footer: false
 ---
 
 Consider coordinates  $x= (1,2,3,4,5,6)$ of a vector in the standard basis of $\mathbb{R}^6$

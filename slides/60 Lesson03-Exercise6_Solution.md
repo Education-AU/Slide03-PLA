@@ -1,6 +1,7 @@
 ---
 title: Exercise 6 Solution
 template: default
+show-footer: false
 ---
 
 ``` python runnable Solution

@@ -1,6 +1,7 @@
 ---
 title: Exercise 4 Solution
 template: two-column
+show-footer: false
 ---
 
 #### Exercise a

@@ -1,6 +1,7 @@
 ---
 title: Exercise 2 Metrics
 template: two-column
+showFooter: false
 ---
 
 #### Exercise a
