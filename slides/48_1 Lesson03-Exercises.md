@@ -1,6 +1,6 @@
 ---
 title: Comments to Exercises
-template: Default
+template: default
 ---
 
 <div class="center-left">
