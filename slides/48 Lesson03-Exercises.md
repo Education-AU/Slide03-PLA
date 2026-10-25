@@ -1,4 +1,4 @@
 ---
 title: Exercises
-template: Section
+template: section
 ---
